@@ -1,7 +1,7 @@
 # ESP-Chess-Board
-DIY chessboard with onboard ESP32 chip to co-ordinate gameplay through a server.
+This project allows a physical chess board powered by an ESP32 microcontroller to connect to WiFi and play other users of ESP-Chessboards.
 
-This project is the design and construction of the physical board.
+The files in this repository are the design and construction of the physical board.
 
 For board programming see https://github.com/scottyob/esp-chess
 
