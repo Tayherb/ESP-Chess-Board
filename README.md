@@ -13,4 +13,4 @@ Design file formats:
 
 Design philosophy is a DIY chess board enclosure with all components 3mm thick to facilite construction with hand tools if desired.
 
-For biuld notes & instructions see file: ESP_Chess_Biuld_Notes.pdf
+Biuld notes & instructions: ESP_Chess_Biuld_Notes.pdf
