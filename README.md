@@ -11,6 +11,6 @@ Design file formats:
 * DXF can be printed 1:1 scale for use as manual cutting templates.
 * FreeCAD file provides the assembly model in a freely available 3D design platform. (Otherwise, I don’t use FreeCAD and am not familiar with it.)
 
-Design philosophy is for a DIY chess board enclosure with 3mm thick components that can be made with hand tools if desired.
+Design philosophy is a DIY chess board enclosure with all components 3mm thick to facilite construction with hand tools if desired.
 
 For biuld notes & instructions see file: ESP_Chess_Biuld_Notes.pdf
