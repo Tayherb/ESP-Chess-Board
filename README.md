@@ -1,5 +1,5 @@
 # ESP-Chess-Board
-DIY chessboard with a built in ESP32 chip to co-ordinate gameplay through a server.
+DIY chessboard with onboard ESP32 chip to co-ordinate gameplay through a server.
 
 This project is the design and construction of the physical board.
 
