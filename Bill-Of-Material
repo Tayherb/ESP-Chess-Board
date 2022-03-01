@@ -1,0 +1,64 @@
+Item	Qty	Part/File Name	Purchase link
+Board Enclosure - DIY Pieces			Material
+			
+1	1	Bottom	3mm thick wood or acrylic as desired
+2	6	Mounting_Pad	"
+3	2	Side-Wall_F-B	"
+4	1	Side-Wall_Motherboard	"
+5	1	Side-Wall_Storage	"
+6	1	Baffle_Daughterboard	"
+7	1	Baffle_Storage	"
+8	2	Baffle_Storage_F-B	"
+9	3	Grid_Support_Baffle_H	"
+10	3	Grid_Support_Baffle_V	"
+11	1	Grid_Base	"
+12	1	Rank_Grid_Baffle	"
+13	2	File_LED_Baffle	"
+14	7	File_Grid_Baffle	"
+15	2	Bezel	"
+16	4	Gib_Fixed	"
+17	4	Gib_Sliding	"
+18	1	Lid_Motherboard	"
+19	1	Lid_Storage	"
+20	1	Playing_Surface	3mm thick translucent acrylic (20% sign white recommended)
+21	1	1:1 scale print of Playing_Surface (optional)	White paper
+			
+Board Enclosure - Purchase			
+			
+22	1 set	Chess Pieces	https://www.amazon.com/gp/product/B0841HWMJJ
+23	8	Ø10mm x 1mm Magnet	https://www.amazon.com/gp/product/B07CG5WPXY
+24	1	WS2812B Neopixel LED Strip	https://www.amazon.com/gp/product/B00ZHB9M6A
+25	50cm each color	30 AWG wires Red/Black/Green to connect LED Strips	https://www.aliexpress.com/item/1005001881186678.html
+26	2	128 x 64 OLED LCD Display Module with SSD1306 Driver	https://www.amazon.com/gp/product/B07F3KY8NF
+27	8	1 pin 20cm 2.54mm female – female bread board cables	https://www.aliexpress.com/item/4000798569166.html
+28	1	USB wall socket (2 Amp Minimum?)	Use existing or purchase as desired
+29	1	USB-A to Micro USB Cable	Use existing or purchase as desired
+			
+Daughterboard			
+			
+30	8	PCB	Preferred PCB Manufacturer
+31	64	10K Resistor	https://www.amazon.com/gp/product/B01M1HHG5A
+32	64	A3144 Hall Effect Sensor	https://www.aliexpress.com/item/1903068949.html
+33	10 x 8	2x5 2.54" horizontal (right angle) connector Pin	https://www.aliexpress.com/item/33043163402.html
+			
+Motherboard			
+			
+34	1	PCB	Preferred PCB Manufacturer
+35	1	ESP-WROOM-32 ESP32 ESP-32S Development Board	https://www.amazon.com/gp/product/B0718T232Z
+36	2	2.54" female headers 19 socket (for ESP32)	https://www.aliexpress.com/item/32890085377.html
+37	1	Logic Level Shifter	https://www.amazon.com/gp/product/B07YZTW2SM
+38	4	CJMCU 2317 (MCP23017) IO Expander	https://www.aliexpress.com/item/1005003642899546.html
+39	1	USB Micro Adaptor	https://www.amazon.com/gp/product/B0183KF7TM
+40	8	2.54" 2x5 female socket (daugherboard connector)	https://www.aliexpress.com/item/33038783817.html
+41	8	3P 2.54MM pitch straight pin screw terminal block	https://www.aliexpress.com/item/33012490287.html
+42	2	"1x4 Male 2.54 Pin Header. (LCD connector)
+Buy 1x4 or break from longer strip"	https://www.aliexpress.com/item/1005003354307690.html
+43	1	2.54 Jumper	https://www.aliexpress.com/item/4000540718136.html
+			
+Fastening. Use existing or purchase as desired. (products used for the board in ESP_Chess_Biuld_Notes.pdf are shown below)			
+			
+	8	Rivets & nuts to attached LCDs to lids	https://www.amazon.com/Electronics-Assortment-Hardware-Screwdriver-Watches/dp/B07QDL3V6W
+	3	Screws to attach motherboard to mounting pads	https://smile.amazon.com/gp/product/B075PX73QF
+		Adhesive to attach magnets to board and chess pieces	Loctite Power Grab
+		Adhesvie to assemble board enclosure	Hot melt glue gun
+		Solder for PCB & LED strip assembly	https://www.amazon.com/gp/product/B075WB98FJ
