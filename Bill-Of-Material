@@ -26,11 +26,11 @@ Board Enclosure - DIY Pieces			Material
 Board Enclosure - Purchase			
 			
 22	1 set	Chess Pieces	https://www.amazon.com/gp/product/B0841HWMJJ
-23	8	Ø10mm x 1mm Magnet	https://www.amazon.com/gp/product/B07CG5WPXY
+23	40	Ø10mm x 1mm Magnet (8 for board, 32 for chess pieces)	https://www.amazon.com/gp/product/B07CG5WPXY
 24	1	WS2812B Neopixel LED Strip	https://www.amazon.com/gp/product/B00ZHB9M6A
 25	50cm each color	30 AWG wires Red/Black/Green to connect LED Strips	https://www.aliexpress.com/item/1005001881186678.html
 26	2	128 x 64 OLED LCD Display Module with SSD1306 Driver	https://www.amazon.com/gp/product/B07F3KY8NF
-27	8	1 pin 20cm 2.54mm female – female bread board cables	https://www.aliexpress.com/item/4000798569166.html
+27	8	1 pin 20cm 2.54mm female – female bread board cables (connect LCD to motherboard)	https://www.aliexpress.com/item/4000798569166.html
 28	1	USB wall socket (2 Amp Minimum?)	Use existing or purchase as desired
 29	1	USB-A to Micro USB Cable	Use existing or purchase as desired
 			
@@ -51,13 +51,12 @@ Motherboard
 39	1	USB Micro Adaptor	https://www.amazon.com/gp/product/B0183KF7TM
 40	8	2.54" 2x5 female socket (daugherboard connector)	https://www.aliexpress.com/item/33038783817.html
 41	8	3P 2.54MM pitch straight pin screw terminal block	https://www.aliexpress.com/item/33012490287.html
-42	2	"1x4 Male 2.54 Pin Header. (LCD connector)
-Buy 1x4 or break from longer strip"	https://www.aliexpress.com/item/1005003354307690.html
+42	2	1x4 Male 2.54 Pin Header. (LCD connector) Buy 1x4 or break from longer strip	https://www.aliexpress.com/item/1005003354307690.html
 43	1	2.54 Jumper	https://www.aliexpress.com/item/4000540718136.html
 			
 Fastening. Use existing or purchase as desired. (products used for the board in ESP_Chess_Biuld_Notes.pdf are shown below)			
 			
-	8	Rivets & nuts to attached LCDs to lids	https://www.amazon.com/Electronics-Assortment-Hardware-Screwdriver-Watches/dp/B07QDL3V6W
+	8	Rivets & nuts to attache LCDs to lids	https://www.amazon.com/Electronics-Assortment-Hardware-Screwdriver-Watches/dp/B07QDL3V6W
 	3	Screws to attach motherboard to mounting pads	https://smile.amazon.com/gp/product/B075PX73QF
 		Adhesive to attach magnets to board and chess pieces	Loctite Power Grab
 		Adhesvie to assemble board enclosure	Hot melt glue gun
