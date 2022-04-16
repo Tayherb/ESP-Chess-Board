@@ -1,0 +1,70 @@
+Qty	Part/File Name	Size (mm) Material Notes Purchase link
+
+Board Enclosure - DIY Pieces
+			
+1	Bottom	292.94 x 390.00	3mm thick wood or acrylic as desired
+6	Mounting_Pad	8 x 8	3mm thick wood or acrylic as desired
+2	Side-Wall_F-B	37.19 x 390.00	3mm thick wood or acrylic as desired
+1	Side-Wall_Motherboard	37.19 x 292.94	3mm thick wood or acrylic as desired
+1	Side-Wall_Storage	37.19 x 292.94	3mm thick wood or acrylic as desired
+1	Baffle_Daughterboard	37.19 x 292.94	3mm thick wood or acrylic as desired
+1	Baffle_Storage	37.19 x 292.94	3mm thick wood or acrylic as desired
+2	Baffle_Storage_F-B	34.19 x 61.18	3mm thick wood or acrylic as desired
+3	Grid_Support_Baffle_H	13.24 x 267.64	3mm thick wood or acrylic as desired
+3	Grid_Support_Baffle_V	13.24 x 286.94	3mm thick wood or acrylic as desired
+1	Grid_Base	267.64 x 286.94	3mm thick wood or acrylic as desired
+1	Rank_Grid_Baffle	15 x 267.64	3mm thick wood or acrylic as desired
+2	File_LED_Baffle	15 x 286.94	3mm thick wood or acrylic as desired
+7	File_Grid_Baffle	15 x 286.94	3mm thick wood or acrylic as desired
+Bezel:		
+  2	- Top Plate	13 x 261.64	3mm thick wood or acrylic as desired
+  2	- Bottom Plate	7 x 267.64	3mm thick wood or acrylic as desired
+  2	- Glue alignment template (optional)	6 x 13	3mm thick wood or acrylic as desired
+4	Gib_Fixed	11 x 15	3mm thick wood or acrylic as desired
+4	Gib_Sliding	17 x 35	3mm thick wood or acrylic as desired
+1	Lid_Motherboard	64.18 x 292.94	3mm thick wood or acrylic as desired
+1	Lid_Storage	64.18 x 292.94	3mm thick wood or acrylic as desired
+1	Playing_Surface	267.54 x 272.84	3mm thick translucent acrylic (20% sign white recommended)
+1	1:1 scale print of Playing_Surface (optional)		White paper
+			
+Board Enclosure - Purchase		
+			
+1 set	Chess Pieces (purchase optional; can also be printed)		https://www.amazon.com/gp/product/B0841HWMJJ
+40	Ø10mm x 1mm Magnet		https://www.amazon.com/gp/product/B07CG5WPXY
+  8 for board		
+  32 for chess pieces		
+1	WS2812B Neopixel LED Strip		https://www.amazon.com/gp/product/B00ZHB9M6A
+50cm each color	30 AWG wires Red/Black/Green	LED Strip connections	https://www.aliexpress.com/item/1005001881186678.html
+2	128 x 64 OLED LCD Display Module with SSD1306 Driver		https://www.amazon.com/gp/product/B07F3KY8NF
+8	1 pin 20cm 2.54mm female – female bread board cables	LCD to motherboard	https://www.aliexpress.com/item/4000798569166.html
+1	USB wall socket	2 Amp Minimum?	Use existing or purchase as desired
+1	USB-A to Micro USB Cable		Use existing or purchase as desired
+			
+Daughterboard		
+			
+8	PCB		Preferred PCB Manufacturer
+64	10K Resistor		https://www.amazon.com/gp/product/B01M1HHG5A
+64	A3144 Hall Effect Sensor		https://www.aliexpress.com/item/1903068949.html
+10 x 8	2x5 2.54" horizontal (right angle) connector Pin		https://www.aliexpress.com/item/33043163402.html
+			
+Motherboard		
+			
+1	PCB		Preferred PCB Manufacturer
+1	ESP-WROOM-32 ESP32 ESP-32S Development Board		https://www.amazon.com/gp/product/B0718T232Z
+2	2.54" female headers 19 socket	Mount ESP32	https://www.aliexpress.com/item/32890085377.html
+1	Logic Level Shifter		https://www.amazon.com/gp/product/B07YZTW2SM
+4	CJMCU 2317 (MCP23017) IO Expander		https://www.aliexpress.com/item/1005003642899546.html
+1	USB Micro Adaptor		https://www.amazon.com/gp/product/B0183KF7TM
+8	2.54" 2x5 female socket	Daugherboard sockets	https://www.aliexpress.com/item/33038783817.html
+8	3P 2.54MM pitch straight pin screw terminal block		https://www.aliexpress.com/item/33012490287.html
+2	1x4 Male 2.54 Pin Header. Buy 1x4 or break from longer strip	LCD connector	https://www.aliexpress.com/item/1005003354307690.html
+1	1x2 Male 2.54 Pin header	Jumper terminal	
+1	2.54 Jumper		https://www.aliexpress.com/item/4000540718136.html
+			
+Fastening. Use existing or purchase as desired. (For reference the products used for the board in ESP_Chess_Biuld_Notes.pdf are shown below)		
+			
+8	Rivets & nuts to attach LCDs to lids		https://www.amazon.com/Electronics-Assortment-Hardware-Screwdriver-Watches/dp/B07QDL3V6W
+3	Screws to attach motherboard to mounting pads		https://www.amazon.com/gp/product/B075PX73QF
+	Adhesive to attach magnets to board and chess pieces  Loctite Power Grab
+	Adhesvie to assemble board enclosure  Hot melt glue gun
+	Solder for PCB & LED strip assembly https://www.amazon.com/gp/product/B075WB98FJ
